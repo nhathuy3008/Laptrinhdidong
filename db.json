@@ -3,12 +3,14 @@
         {
             "id": 1,
             "title": "Cách nấu phở bò truyền thống",
-            "body": "Hướng dẫn chi tiết cách nấu phở bò"
+            "body": "Hướng dẫn chi tiết cách nấu phở bò",
+			"image": "https://res.cloudinary.com/ddmsl3meg/image/upload/v1734620647/rbdmqebjegnvn1jrswce.jpg"
         },
         {
             "id": 2,
             "title": "Hướng dẫn sử dụng Flutter",
-            "body": "Hướng dẫn chi tiết cách sử dụng"
+            "body": "Hướng dẫn chi tiết cách sử dụng",
+			"image": "https://res.cloudinary.com/ddmsl3meg/image/upload/v1734620647/rbdmqebjegnvn1jrswce.jpg"
         }
     ],
     "users": [
