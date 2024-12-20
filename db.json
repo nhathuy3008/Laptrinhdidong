@@ -1,0 +1,26 @@
+"posts":[
+    {
+        "id": 1,
+        "title": "Cách nấu phở bò truyền thống",
+        "body": "Hướng dẫn chi tiết cách nấu phở bò",
+    {
+        "id": 2,
+        "title": "Hướng dẫn sử dụng Flutter",
+        "body": "Hướng dẫn chi tiết cách sử dụng",
+    }
+]
+
+"users": [
+    {
+        "fullName": "Trần Nhật Huy",
+        "email": "nhathuy1237890@gmail.com",
+        "password": "123",
+        "image": "https://res.cloudinary.com/ddmsl3meg/image/upload/v1734620647/rbdmqebjegnvn1jrswce.jpg"
+    },
+    {
+        "fullName": "Huy Nhật",
+        "email": "nhathuy123@gmail.com",
+        "password": "123",
+        "image": "https://res.cloudinary.com/ddmsl3meg/image/upload/v1734659304/l7sgeq3s2toxjn4zhokt.jpg"
+    }
+]
